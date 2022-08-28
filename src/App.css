@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.App {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.general-box{
+  margin-top: 100px;
+  position: relative;
+  width: 40rem;
+  height: 30rem;
+}

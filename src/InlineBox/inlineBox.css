@@ -1,0 +1,32 @@
+.inline-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  background-color: rgba(255, 255, 0, 0.803);
+  height: 250px;
+}
+.inline-box h4 {
+  margin: 20px;
+}
+.inline-box .input {
+  margin: 10px;
+}
+.input span{
+    margin: 10px;
+}
+.input input{
+    border: 0px;
+    color: white;
+    background-color: rgb(17, 52, 84);
+}
+.calculate-btn {
+  margin: 10px;
+  padding: 8px;
+  border: 0px;
+  border-radius: 8px;
+  width: 100px;
+  color: yellow;
+  background-color: rgb(17, 52, 84);
+}
